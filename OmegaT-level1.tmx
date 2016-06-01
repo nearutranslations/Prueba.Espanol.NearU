@@ -1,0 +1,2241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="PT-BR"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>"A NearU está formada por tradutores com amplo conhecimento em negócios internacionais e das mais diferentes áreas.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20160111T182245Z" creationid="Admin" creationdate="20160111T182213Z">
+        <seg>"NearU está formada por traductores con amplio conocimiento en negocios internacionales y de las más diversas áreas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>#</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130009Z" creationid="HPNuevo" creationdate="20160115T130009Z">
+        <seg>#</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>#about</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130005Z" creationid="HPNuevo" creationdate="20160115T130005Z">
+        <seg>#about</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>#collapseFive</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130131Z" creationid="HPNuevo" creationdate="20160115T130131Z">
+        <seg>#collapseFive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>#collapseFour</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130131Z" creationid="HPNuevo" creationdate="20160115T130131Z">
+        <seg>#collapseFour</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>#collapseOne</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130129Z" creationid="HPNuevo" creationdate="20160115T130129Z">
+        <seg>#collapseOne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>#collapseThree</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130130Z" creationid="HPNuevo" creationdate="20160115T130130Z">
+        <seg>#collapseThree</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>#collapseTwo</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130130Z" creationid="HPNuevo" creationdate="20160115T130130Z">
+        <seg>#collapseTwo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>#contact</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130006Z" creationid="HPNuevo" creationdate="20160115T130006Z">
+        <seg>#contact</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>#home</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130003Z" creationid="HPNuevo" creationdate="20160115T130003Z">
+        <seg>#home</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>#portfolio</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130004Z" creationid="HPNuevo" creationdate="20160115T130004Z">
+        <seg>#portfolio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>#pricing</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130006Z" creationid="HPNuevo" creationdate="20160115T130006Z">
+        <seg>#pricing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>#services</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130004Z" creationid="HPNuevo" creationdate="20160115T130004Z">
+        <seg>#services</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>#tab-1</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130136Z" creationid="HPNuevo" creationdate="20160115T130136Z">
+        <seg>#tab-1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>#tab-2</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130137Z" creationid="HPNuevo" creationdate="20160115T130137Z">
+        <seg>#tab-2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>#tab-3</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130138Z" creationid="HPNuevo" creationdate="20160115T130138Z">
+        <seg>#tab-3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>(Ex: Dropbox, Google Drive, etc).</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130410Z" creationid="HPNuevo" creationdate="20160115T130410Z">
+        <seg>(ej: Dropbox, Google Drive, etc).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>+4 Milhões</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="BodaAcer" changedate="20160111T211330Z" creationid="Admin" creationdate="20160111T183620Z">
+        <seg>+ 4 Millones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>+55 (11) 97387 23 60</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130206Z" creationid="HPNuevo" creationdate="20160115T130206Z">
+        <seg>+55 (11) 97387 23 60</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130420Z" creationid="HPNuevo" creationdate="20160115T130420Z">
+        <seg>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>../en/index.html</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130013Z" creationid="HPNuevo" creationdate="20160115T130013Z">
+        <seg>../en/index.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>../es/index.html</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130043Z" creationid="HPNuevo" creationdate="20160115T130043Z">
+        <seg>../es/index.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>../pt/index.html</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130046Z" creationid="HPNuevo" creationdate="20160115T130046Z">
+        <seg>../pt/index.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>../style.css</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T125937Z" creationid="HPNuevo" creationdate="20160115T125937Z">
+        <seg>../style.css</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>../style/css/bootstrap.css</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T125926Z" creationid="HPNuevo" creationdate="20160115T125926Z">
+        <seg>../style/css/bootstrap.css</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>../style/css/color/NearU.css</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T125939Z" creationid="HPNuevo" creationdate="20160115T125939Z">
+        <seg>../style/css/color/NearU.css</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>../style/css/owl.carousel.css</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T125931Z" creationid="HPNuevo" creationdate="20160115T125931Z">
+        <seg>../style/css/owl.carousel.css</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>../style/css/settings.css</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T125929Z" creationid="HPNuevo" creationdate="20160115T125929Z">
+        <seg>../style/css/settings.css</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>../style/images/MarioEsp1-88.png</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130002Z" creationid="HPNuevo" creationdate="20160115T130002Z">
+        <seg>../style/images/MarioEsp1-88.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>../style/images/art/alimentacion1.jpg</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130117Z" creationid="HPNuevo" creationdate="20160115T130117Z">
+        <seg>../style/images/art/alimentacion1.jpg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>../style/images/art/arte_y_cultura.jpg</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130116Z" creationid="HPNuevo" creationdate="20160115T130116Z">
+        <seg>../style/images/art/arte_y_cultura.jpg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>../style/images/art/automovil.jpg</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130102Z" creationid="HPNuevo" creationdate="20160115T130102Z">
+        <seg>../style/images/art/automovil.jpg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>../style/images/art/cartelpubli.jpg</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130124Z" creationid="HPNuevo" creationdate="20160115T130124Z">
+        <seg>../style/images/art/cartelpubli.jpg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>../style/images/art/economia.jpg</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130114Z" creationid="HPNuevo" creationdate="20160115T130114Z">
+        <seg>../style/images/art/economia.jpg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>../style/images/art/educacion.jpg</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130111Z" creationid="HPNuevo" creationdate="20160115T130111Z">
+        <seg>../style/images/art/educacion.jpg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>../style/images/art/finanzas.jpg</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130105Z" creationid="HPNuevo" creationdate="20160115T130105Z">
+        <seg>../style/images/art/finanzas.jpg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>../style/images/art/informatica.jpg</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130104Z" creationid="HPNuevo" creationdate="20160115T130104Z">
+        <seg>../style/images/art/informatica.jpg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>../style/images/art/laley.jpg</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130126Z" creationid="HPNuevo" creationdate="20160115T130126Z">
+        <seg>../style/images/art/laley.jpg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>../style/images/art/madrid-ciudad.jpg</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130113Z" creationid="HPNuevo" creationdate="20160115T130113Z">
+        <seg>../style/images/art/madrid-ciudad.jpg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>../style/images/art/marketing.jpg</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130100Z" creationid="HPNuevo" creationdate="20160115T130100Z">
+        <seg>../style/images/art/marketing.jpg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>../style/images/art/metalurgia.jpg</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130110Z" creationid="HPNuevo" creationdate="20160115T130110Z">
+        <seg>../style/images/art/metalurgia.jpg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>../style/images/art/mineria.jpg</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130114Z" creationid="HPNuevo" creationdate="20160115T130114Z">
+        <seg>../style/images/art/mineria.jpg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>../style/images/art/saopaulo.jpg</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130049Z" creationid="HPNuevo" creationdate="20160115T130049Z">
+        <seg>../style/images/art/saopaulo.jpg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>../style/images/art/saude.jpg</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130106Z" creationid="HPNuevo" creationdate="20160115T130106Z">
+        <seg>../style/images/art/saude.jpg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>../style/images/art/sobrenos.jpg</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130128Z" creationid="HPNuevo" creationdate="20160115T130128Z">
+        <seg>../style/images/art/sobrenos.jpg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>../style/images/art/solucionlocalizacion.jpg</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130053Z" creationid="HPNuevo" creationdate="20160115T130053Z">
+        <seg>../style/images/art/solucionlocalizacion.jpg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>../style/images/art/tecnologia.jpg</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130111Z" creationid="HPNuevo" creationdate="20160115T130111Z">
+        <seg>../style/images/art/tecnologia.jpg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>../style/images/art/tenhaacesso.jpg</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130052Z" creationid="HPNuevo" creationdate="20160115T130052Z">
+        <seg>../style/images/art/tenhaacesso.jpg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>../style/images/favicon.png</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T125908Z" creationid="HPNuevo" creationdate="20160115T125908Z">
+        <seg>../style/images/favicon.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>../style/js/fancybox/helpers/jquery.fancybox-thumbs.css?v=1.0.2</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T125936Z" creationid="HPNuevo" creationdate="20160115T125936Z">
+        <seg>../style/js/fancybox/helpers/jquery.fancybox-thumbs.css?v=1.0.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>../style/js/fancybox/jquery.fancybox.css</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T125604Z" creationid="HPNuevo" creationdate="20160115T125604Z">
+        <seg>../style/js/fancybox/jquery.fancybox.css</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>../style/js/google-code-prettify/prettify.css</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T125934Z" creationid="HPNuevo" creationdate="20160115T125934Z">
+        <seg>../style/js/google-code-prettify/prettify.css</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>../style/type/budicons.css</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T125954Z" creationid="HPNuevo" creationdate="20160115T125954Z">
+        <seg>../style/type/budicons.css</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>../style/type/fontello.css</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T125946Z" creationid="HPNuevo" creationdate="20160115T125946Z">
+        <seg>../style/type/fontello.css</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>../style/type/stylesheet.css</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T125958Z" creationid="HPNuevo" creationdate="20160115T125958Z">
+        <seg>../style/type/stylesheet.css</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>0</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130134Z" creationid="HPNuevo" creationdate="20160115T130134Z">
+        <seg>0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>1 Tradutor + 1 Revisor Nativos</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20151222T121409Z" creationid="Admin" creationdate="20151222T121117Z">
+        <seg>1 Traductor + 1 Revisor Nativos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>1 Tradutor Nativo faz a revisão</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20151222T121217Z" creationid="Admin" creationdate="20151222T121217Z">
+        <seg>1 Traductor nativo hace la revisión</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>100%</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130135Z" creationid="HPNuevo" creationdate="20160115T130135Z">
+        <seg>100%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>1200</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130134Z" creationid="HPNuevo" creationdate="20160115T130134Z">
+        <seg>1200</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>            Créditos</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130419Z" creationid="HPNuevo" creationdate="20160115T130419Z">
+        <seg>            Créditos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Sunset Empires por Greg Knapp, licenciada sob CC BY 2.0 / Recorte de parte da imagem original.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130851Z" creationid="HPNuevo" creationdate="20160115T130851Z">
+        <seg>Sunset Empires por Greg Knapp, licenciada bajo CC BY 2.0 / Recorte de parte de la imagen original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Wall_Food_10305 por Michael Stern, licenciada sob CC BY 2.0</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130907Z" creationid="HPNuevo" creationdate="20160115T130855Z">
+        <seg>Wall_Food_10305 por Michael Stern, licenciada bajo CC BY 2.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>NearU Translations</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130051Z" creationid="HPNuevo" creationdate="20160115T130051Z">
+        <seg>NearU Translations</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>NearU Translations</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130127Z" creationid="HPNuevo" creationdate="20160115T130127Z">
+        <seg>NearU Translations</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>a partir de $0,03</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130204Z" creationid="HPNuevo" creationdate="20160115T130204Z">
+        <seg>a partir de $0,03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>a partir de $0,06</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130203Z" creationid="HPNuevo" creationdate="20160115T130203Z">
+        <seg>a partir de $0,06</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>a partir de $0,08</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130205Z" creationid="HPNuevo" creationdate="20160115T130205Z">
+        <seg>a partir de $0,08</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>a partir de $0,75</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20160111T183930Z" creationid="Admin" creationdate="20160111T183930Z">
+        <seg>desde $0,75</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>a partir de 0,03€</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130145Z" creationid="HPNuevo" creationdate="20160115T130145Z">
+        <seg>a partir de 0,03€</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>a partir de 0,06€</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130144Z" creationid="HPNuevo" creationdate="20160115T130144Z">
+        <seg>a partir de 0,06€</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>a partir de 0,08€</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130148Z" creationid="HPNuevo" creationdate="20160115T130148Z">
+        <seg>a partir de 0,08€</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>a partir de 0,75€</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20160111T183858Z" creationid="Admin" creationdate="20160111T183858Z">
+        <seg>desde 0,75 €</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>a partir de R$0,12</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130143Z" creationid="HPNuevo" creationdate="20160115T130143Z">
+        <seg>a partir de R$0,12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>a partir de R$0,24</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130140Z" creationid="HPNuevo" creationdate="20160115T130140Z">
+        <seg>a partir de R$0,24</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>a partir de R$0,32</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130143Z" creationid="HPNuevo" creationdate="20160115T130143Z">
+        <seg>a partir de R$0,32</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>a partir de R$3,00</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20160111T183820Z" creationid="Admin" creationdate="20160111T183820Z">
+        <seg>desde R$3,00</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>A Agência de Tradução que o leva ao mercado internacional</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20160111T180018Z" creationid="Admin" creationdate="20160111T180018Z">
+        <seg>La agencia de traducción que le lleva al mercado internacional</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>A SUA AGÊNCIA DE TRADUÇÃO</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20160111T182112Z" creationid="Admin" creationdate="20160111T182112Z">
+        <seg>SU AGENCIA DE TRADUCCIÓN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>A revisão é realizada por outro profissional nativo, devidamente orientado.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20151222T120436Z" creationid="Admin" creationdate="20151222T120429Z">
+        <seg>La revisión se lleva a cabo por otro profesional nativo, debidamente orientado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>ACESSE A + 1.500 Milhões de PESSOAS</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T132430Z" creationid="HPNuevo" creationdate="20160115T132430Z">
+        <seg>ACCEDA A + 1.500 Millones de PERSONAS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>APROXIMAMOS PESSOAS &amp;  FACILITAMOS O DESENVOLVIMENTO</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20160111T182039Z" creationid="Admin" creationdate="20160111T182039Z">
+        <seg>APROXIMAMOS PERSONAS Y  FACILITAMOS EL DESARROLLO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Acreditamos que todas as empresas, desde as pequenas até as grandes, podem expandir seus negócios internacionalmente e um dos mais importantes passos para isso é quebrar a barreira linguística existente entre cada país e aproximar as pessoas através da tradução de todo o conteúdo corporativo: página web, blog, manuais, catálogos, contratos, etc.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="BodaAcer" changedate="20160111T210139Z" creationid="Admin" creationdate="20160111T182915Z">
+        <seg>Creemos que todas las empresas, desde las pequeñas hasta las grandes, pueden expandir su negocio internacionalmente, y uno de los pasos más importantes que deben realizar es romper la barrera lingüística existente entre los países y aproximar a las personas a través de la traducción de todo el contenido empresarial: página web, blog, manuales, catálogos, contratos, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Adaptamo-nos às suas necessidades</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20160111T183557Z" creationid="Admin" creationdate="20160111T183557Z">
+        <seg>Nos adaptamos a sus necesidades</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Agência de tradução, revisão, localização e transcrição de conteúdos simples e técnico, especializada nos pares de idiomas português, inglês e espanhol para qualquer tipo de segmento empresarial.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20160111T175618Z" creationid="Admin" creationdate="20160111T175618Z">
+        <seg>Agencia de traducción, revisión, localización y transcripción de contenido simple y técnico, especializada en los pares de idiomas portugués, Inglés y español para cualquier tipo de segmento empresarial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Alcançada pela união de nossas maiores forças: equipe especializada, processo ágil de trabalho e tecnologia que garantem a máxima produtividade.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160121T180217Z" creationid="Admin" creationdate="20160111T183548Z">
+        <seg>Conseguida por la unión de nuestras mayores fortalezas: equipo especializado, procesos de trabajo ágiles y tecnología que garantizan la máxima productividad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Alimentação</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20151222T115925Z" creationid="Admin" creationdate="20151222T115925Z">
+        <seg>Alimentación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Além de oferecer serviços a preços altamente competitivos, operamos com ferramentas que armazenam o seu conteúdo e permitem reutilizar as frases repetidas.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="BodaAcer" changedate="20160111T211239Z" creationid="Admin" creationdate="20151222T120913Z">
+        <seg>Además de ofrecer servicios a precios muy competitivos, trabajamos con herramientas que almacenan su contenido y permiten la reutilización de frases repetidas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Antes da entrega, todos os projetos passam por um controle de qualidade que nos permite identificar e corrigir possíveis falhas.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20151222T120447Z" creationid="Admin" creationdate="20151222T120447Z">
+        <seg>Antes de la entrega, todos los proyectos pasan por un control de calidad que nos permite identificar y corregir posibles fallos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Análise</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20151222T120325Z" creationid="Admin" creationdate="20151222T120325Z">
+        <seg>Análisis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Assim, o mercado global estará ao alcance da sua empresa – Near You!!</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160121T180114Z" creationid="Admin" creationdate="20151222T120319Z">
+        <seg>Así, el mercado global estará al alcance de su empresa – ¡¡Near You!!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Assunto</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20151222T121721Z" creationid="Admin" creationdate="20151222T121721Z">
+        <seg>Asunto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Atendemos aos mais diversos setores</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20151222T122458Z" creationid="Admin" creationdate="20151222T115809Z">
+        <seg>Atendemos a los más diversos sectores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Atendimento Personalizado</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="BodaAcer" changedate="20160111T210602Z" creationid="Admin" creationdate="20151222T120508Z">
+        <seg>Atención Personalizada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Atrasos</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20151222T120956Z" creationid="Admin" creationdate="20151222T120956Z">
+        <seg>Retrasos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Automobilística</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130102Z" creationid="HPNuevo" creationdate="20160115T130102Z">
+        <seg>Automobilística</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Budicon</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130937Z" creationid="HPNuevo" creationdate="20160115T130937Z">
+        <seg>Budicon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Clique &amp;  Compartilhe</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20160111T180750Z" creationid="Admin" creationdate="20160111T180750Z">
+        <seg>Haga Clic y  Comparta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Com as traduções nos pares de idiomas que oferecemos</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20151222T115710Z" creationid="Admin" creationdate="20151222T115710Z">
+        <seg>Con las traducciones en los pares de idiomas que ofrecemos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Compreensão dos requisitos, idiomas, conteúdo e ferramentas, glossários e dicionários necessários.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20160111T183033Z" creationid="Admin" creationdate="20160111T183033Z">
+        <seg>Comprensión de los requisitos, idiomas, contenidos y herramientas, glosarios y diccionarios necesarios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Confidencialidade</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20151222T120616Z" creationid="Admin" creationdate="20151222T120616Z">
+        <seg>Confidencialidad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Confira os principais</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160120T112510Z" creationid="HPNuevo" creationdate="20160120T112510Z">
+        <seg>Vea los principales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Conheça nosso DNA</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20151222T121841Z" creationid="Admin" creationdate="20151222T115704Z">
+        <seg>Conozca nuestro ADN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Contato</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20151222T115527Z" creationid="Admin" creationdate="20151222T115527Z">
+        <seg>Contacto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Controle de Qualidade</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="BodaAcer" changedate="20160111T211412Z" creationid="Admin" creationdate="20151222T121120Z">
+        <seg>Control de Calidad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Controle de Qualidade e Entrega</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="BodaAcer" changedate="20160111T210502Z" creationid="Admin" creationdate="20151222T120441Z">
+        <seg>Control de Calidad y Entrega</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Convertemos essas repetições em grandes descontos!</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="BodaAcer" changedate="20160112T211107Z" creationid="Admin" creationdate="20151222T120932Z">
+        <seg>¡Convertimos esas repeticiones en grandes descuentos!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Cultura</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130115Z" creationid="HPNuevo" creationdate="20160115T130115Z">
+        <seg>Cultura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>DE NEGÓCIOS INTERNACIONAIS</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20151222T115958Z" creationid="Admin" creationdate="20151222T115958Z">
+        <seg>DE NEGOCIOS INTERNACIONALES</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>DISPONÍVEIS PARA USO GLOBAL</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160120T112333Z" creationid="HPNuevo" creationdate="20160120T112333Z">
+        <seg>DISPONIBLES PARA USO GLOBAL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Deixe-nos sua mensagem.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130251Z" creationid="HPNuevo" creationdate="20160115T130213Z">
+        <seg>Déjenos su mensaje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Designamos um coordenador de projeto para cada cliente para acompanhá-lo em todas as fases do projeto.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20160111T183310Z" creationid="Admin" creationdate="20160111T183310Z">
+        <seg>Designamos un coordinador de proyecto a cada cliente para acompañarlo en todas las fases del proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Diferentes modalidades culturais</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20160111T181847Z" creationid="Admin" creationdate="20160111T181847Z">
+        <seg>Diferentes modalidades culturales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Dólar</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160120T113525Z" creationid="HPNuevo" creationdate="20160120T113525Z">
+        <seg>Dólar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>E-mail (necessário)</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20160111T184413Z" creationid="Admin" creationdate="20160111T184413Z">
+        <seg>Email (requerido)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Easytabs</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130918Z" creationid="HPNuevo" creationdate="20160115T130918Z">
+        <seg>Easytabs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Economia</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20151222T115910Z" creationid="Admin" creationdate="20151222T115910Z">
+        <seg>Economía</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Educação</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20151222T122904Z" creationid="Admin" creationdate="20151222T115903Z">
+        <seg>Educación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>English</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130043Z" creationid="HPNuevo" creationdate="20160115T130043Z">
+        <seg>English</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Entre em Contato</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20151222T121541Z" creationid="Admin" creationdate="20151222T121541Z">
+        <seg>Entre en Contacto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Entrega Rápida</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130142Z" creationid="HPNuevo" creationdate="20160115T130142Z">
+        <seg>Entrega Rápida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Enviar Mensagem</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20151222T121741Z" creationid="Admin" creationdate="20151222T121741Z">
+        <seg>Enviar mensaje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Escolha a sua moeda</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20160111T183641Z" creationid="Admin" creationdate="20160111T183641Z">
+        <seg>Elija su moneda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Español</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130045Z" creationid="HPNuevo" creationdate="20160115T130045Z">
+        <seg>Español</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Esse recebe as orientações e ferramentas necessárias para assegurar a qualidade do trabalho.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20160111T183118Z" creationid="Admin" creationdate="20160111T183118Z">
+        <seg>Recibe la orientación y las herramientas necesarias para asegurar la calidad del trabajo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Estamos à sua disposição para enviar orçamento personalizado e esclarecer qualquer dúvida que você possa ter.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20151222T121605Z" creationid="Admin" creationdate="20151222T121605Z">
+        <seg>Estamos a su disposición para enviarle un presupuesto personalizado y aclarar cualquier duda que tenga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Estudo informe econômico</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20160111T181829Z" creationid="Admin" creationdate="20160111T181829Z">
+        <seg>Estudio económico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Euro</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160120T113524Z" creationid="HPNuevo" creationdate="20160120T113524Z">
+        <seg>Euro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Everything was perfect.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20160111T184043Z" creationid="Admin" creationdate="20160111T184043Z">
+        <seg>Todo fue perfecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Expanda seus negócios ao posicionar automaticamente o conteúdo do seu site e aplicativo no idioma escolhido e de maneira precisa e econômica.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160121T180041Z" creationid="HPNuevo" creationdate="20160121T175443Z">
+        <seg>Expanda su negocio mediante el posicionamiento automático del contenido de sus sitios web y de sus aplicaciones en el idioma elegido y de una manera precisa y económica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Fancybox</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130919Z" creationid="HPNuevo" creationdate="20160115T130919Z">
+        <seg>Fancybox</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Farmacêutico e Saúde</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160120T113223Z" creationid="HPNuevo" creationdate="20160120T113223Z">
+        <seg>Farmacéutico y Salud</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Finanças</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20151222T115856Z" creationid="Admin" creationdate="20151222T115856Z">
+        <seg>Finanzas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Fitvids</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130920Z" creationid="HPNuevo" creationdate="20160115T130920Z">
+        <seg>Fitvids</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Foi essa diversidade e experiência mundo afora que nos impulsionou a criar a NearU Translations".</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160120T113348Z" creationid="HPNuevo" creationdate="20160120T113348Z">
+        <seg>Fue esta diversidad y experiencia exterior la que nos impulsó a crear NearU Translations".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Fonte Cibelis Madri</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20160111T181750Z" creationid="Admin" creationdate="20160111T181750Z">
+        <seg>Fuente de Cibeles Madrid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Fontello</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130936Z" creationid="HPNuevo" creationdate="20160115T130936Z">
+        <seg>Fontello</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Glossários Técnicos</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="BodaAcer" changedate="20160111T210619Z" creationid="Admin" creationdate="20151222T120554Z">
+        <seg>Glosarios Técnicos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Good job, Thanks a lot!Noa Gal</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20160111T184312Z" creationid="Admin" creationdate="20160111T184312Z">
+        <seg>Buen trabajo, sois los mejores, ¡muchas gracias!Noa Gal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>HTTPS://CREATIVECOMMONS.ORG/LICENSES/BY/2.0/</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130750Z" creationid="HPNuevo" creationdate="20160115T130750Z">
+        <seg>HTTPS://CREATIVECOMMONS.ORG/LICENSES/BY/2.0/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Home</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20151222T121808Z" creationid="Admin" creationdate="20151222T115459Z">
+        <seg>Inicio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Horário de Atendimento: 8h00 às 18h00 - Horário de Brasília (Brasil)</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="BodaAcer" changedate="20160111T211723Z" creationid="Admin" creationdate="20151222T121712Z">
+        <seg>Horario de Atención al Cliente: 8:00 a 18:00 - Horario Brasilia (Brasil)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>IDIOMAS: PORTUGUÊS - INGLÊS - ESPANHOL</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="BodaAcer" changedate="20160111T203901Z" creationid="Admin" creationdate="20151222T115721Z">
+        <seg>IDIOMAS: INGLÉS - ESPAÑOL - PORTUGUÉS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Idiomas</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130011Z" creationid="HPNuevo" creationdate="20160115T130011Z">
+        <seg>Idiomas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Imágenes</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130740Z" creationid="HPNuevo" creationdate="20160115T130740Z">
+        <seg>Imágenes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Indústria</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20160111T180901Z" creationid="Admin" creationdate="20160111T180901Z">
+        <seg>Industria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Informática</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130103Z" creationid="HPNuevo" creationdate="20160115T130103Z">
+        <seg>Informática</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Insira um endereço de e-mail válido</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20151222T121750Z" creationid="Admin" creationdate="20151222T121750Z">
+        <seg>Introduzca una dirección válida de correo electrónico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Instafeed</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130925Z" creationid="HPNuevo" creationdate="20160115T130925Z">
+        <seg>Instafeed</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Isotope</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130921Z" creationid="HPNuevo" creationdate="20160115T130921Z">
+        <seg>Isotope</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>JavaScript</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130859Z" creationid="HPNuevo" creationdate="20160115T130859Z">
+        <seg>JavaScript</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Juntos, representam aproximadamente 1.500 milhões de pessoas!!</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20160111T182528Z" creationid="Admin" creationdate="20160111T182528Z">
+        <seg>Juntos, son hablados por aproximadamente ¡¡1.500 millones de personas!!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Já possui o conteúdo no idioma desejado e pretende agregar qualidade ao mesmo?</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="BodaAcer" changedate="20160111T204248Z" creationid="Admin" creationdate="20160111T180334Z">
+        <seg>¿Ya tiene el contenido en el idioma que desea y pretende añadirle calidad?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>LOCALIZAÇÃO DE SITES E APLICATIVOS</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T132502Z" creationid="HPNuevo" creationdate="20160115T132502Z">
+        <seg>LOCALIZACIÓN DE WEBS Y DE APLICACIONES</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Leave This Field Empty</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20151222T121738Z" creationid="Admin" creationdate="20151222T121738Z">
+        <seg>Deje este campo vacío</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Legal</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160120T113234Z" creationid="HPNuevo" creationdate="20160120T113234Z">
+        <seg>Legalidad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Like</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20151222T122444Z" creationid="Admin" creationdate="20151222T122444Z">
+        <seg>Me Gusta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Localização</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20151222T121313Z" creationid="Admin" creationdate="20151222T121313Z">
+        <seg>Localización</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Localização Profissional</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="BodaAcer" changedate="20160111T211500Z" creationid="Admin" creationdate="20151222T121424Z">
+        <seg>Localización Profesional</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Localização de Sites e Aplicativos</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160120T112357Z" creationid="HPNuevo" creationdate="20160120T112357Z">
+        <seg>Localización de Webs y Aplicaciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Mantemos sob sigilo as informações de nossos clientes, que poderão solicitar um contrato de confidencialidade.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20160111T183419Z" creationid="Admin" creationdate="20160111T183419Z">
+        <seg>Mantenemos de forma confidencial la información de nuestros clientes, que podrán solicitar la firma de un acuerdo de no divulgación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Marketing</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130059Z" creationid="HPNuevo" creationdate="20160115T130059Z">
+        <seg>Marketing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Metalurgia</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130109Z" creationid="HPNuevo" creationdate="20160115T130109Z">
+        <seg>Metalurgia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Mineração</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20160111T181835Z" creationid="Admin" creationdate="20160111T181835Z">
+        <seg>Minería</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Múltiplos Formatos de Arquivos</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="BodaAcer" changedate="20160111T211120Z" creationid="Admin" creationdate="20151222T120844Z">
+        <seg>Múltiples Formatos de Archivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>NOSSOS SERVIÇOS</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20151222T115719Z" creationid="Admin" creationdate="20151222T115719Z">
+        <seg>NUESTROS SERVICIOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Nome (necessário)</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20160111T184409Z" creationid="Admin" creationdate="20160111T184409Z">
+        <seg>Nombre (requerido)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Nossa missão é servir de ferramenta para a expansão e consolidação global da sua empresa, oferecendo serviços de tradução, revisão, transcrição e localização da mais alta qualidade, rapidez e preço justo.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160121T180045Z" creationid="Admin" creationdate="20160111T183001Z">
+        <seg>Nuestra misión es servir como herramienta para la expansión y consolidación mundial de su empresa, ofreciendo servicios de traducción, revisión, transcripción y localización de la más alta calidad, rapidez y precio competitivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Nosso DNA</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20151222T120010Z" creationid="Admin" creationdate="20151222T120010Z">
+        <seg>Nuestro ADN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Nosso Diferencial</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="BodaAcer" changedate="20160111T210512Z" creationid="Admin" creationdate="20151222T120449Z">
+        <seg>Nuestro Diferencial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Nossos Preços</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="BodaAcer" changedate="20160111T211348Z" creationid="Admin" creationdate="20151222T121001Z">
+        <seg>Nuestros Precios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Orçamento</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20151222T121128Z" creationid="Admin" creationdate="20151222T121128Z">
+        <seg>Presupuesto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Os melhores preços para o seu projeto</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20151222T121005Z" creationid="Admin" creationdate="20151222T121005Z">
+        <seg>Los mejores precios para su proyecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Outros</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20151222T115838Z" creationid="Admin" creationdate="20151222T115838Z">
+        <seg>Otros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Owl Carousel</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130924Z" creationid="HPNuevo" creationdate="20160115T130924Z">
+        <seg>Owl Carousel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Palavras Traduzidas</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="BodaAcer" changedate="20160111T211334Z" creationid="Admin" creationdate="20151222T120939Z">
+        <seg>Palabras Traducidas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Panel publicidade</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130123Z" creationid="HPNuevo" creationdate="20160115T130123Z">
+        <seg>Panel publicidad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Para solicitar orçamento, informações ou enviar o seu CV</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="BodaAcer" changedate="20160111T211631Z" creationid="Admin" creationdate="20151222T121552Z">
+        <seg>Para pedir presupuesto, información o enviar su CV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Permita que seus documentos passem por uma revisão gramatical, linguística e terminológica.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="BodaAcer" changedate="20160111T204322Z" creationid="Admin" creationdate="20160111T180450Z">
+        <seg>Haga que sus documentos pasen por una revisión gramatical, lingüística y terminológica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Peça um Orçamento</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="BodaAcer" changedate="20160111T205450Z" creationid="Admin" creationdate="20151222T120002Z">
+        <seg>Solicitar un Presupuesto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Pin it</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130055Z" creationid="HPNuevo" creationdate="20160115T130055Z">
+        <seg>Pin it</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Placa Legalidade</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20160111T182002Z" creationid="Admin" creationdate="20160111T182002Z">
+        <seg>Placa en la que está escrita LAW</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Por Setor</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20151222T115521Z" creationid="Admin" creationdate="20151222T115521Z">
+        <seg>Por Sector</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Português</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130046Z" creationid="HPNuevo" creationdate="20160115T130046Z">
+        <seg>Português</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Posteriormente é definido o cronograma do projeto.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20151222T120350Z" creationid="Admin" creationdate="20151222T120350Z">
+        <seg>Más tarde se define el cronograma del proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Preenchimento Obrigatório</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20151222T121744Z" creationid="Admin" creationdate="20151222T121744Z">
+        <seg>Obligatorio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Preço Reduzido</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="BodaAcer" changedate="20160111T211217Z" creationid="Admin" creationdate="20151222T120858Z">
+        <seg>Precio Reducido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Preço por Minuto Áudio/Vídeo</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="BodaAcer" changedate="20160111T211525Z" creationid="Admin" creationdate="20151222T121513Z">
+        <seg>Precio por Minuto de Audio/Vídeo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Preço por Palavra</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="BodaAcer" changedate="20160111T211423Z" creationid="Admin" creationdate="20151222T121125Z">
+        <seg>Precio por Palabra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Preços</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20151222T115525Z" creationid="Admin" creationdate="20151222T115525Z">
+        <seg>Precios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Processo de tradução</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20151222T120324Z" creationid="Admin" creationdate="20151222T120324Z">
+        <seg>Proceso de traducción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Projetos</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20151222T120949Z" creationid="Admin" creationdate="20151222T120949Z">
+        <seg>Proyectos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Publicidade</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20151222T115928Z" creationid="Admin" creationdate="20151222T115928Z">
+        <seg>Publicidad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Rapidez</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130133Z" creationid="HPNuevo" creationdate="20160115T130133Z">
+        <seg>Rapidez</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Real</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160120T113515Z" creationid="HPNuevo" creationdate="20160120T113515Z">
+        <seg>Real</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Retinise.js</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130923Z" creationid="HPNuevo" creationdate="20160115T130923Z">
+        <seg>Retinise.js</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Revisão</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20151222T115742Z" creationid="Admin" creationdate="20151222T115742Z">
+        <seg>Revisión</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Revisão Profissional</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="BodaAcer" changedate="20160111T211443Z" creationid="Admin" creationdate="20151222T121249Z">
+        <seg>Revisión Profesional</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Revolution Slider</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130922Z" creationid="HPNuevo" creationdate="20160115T130922Z">
+        <seg>Revolution Slider</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>SOLUÇÕES PARA CONQUISTAR NOVOS MERCADOS</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20151222T115720Z" creationid="Admin" creationdate="20151222T115720Z">
+        <seg>SOLUCIONES PARA CONQUISTAR NUEVOS MERCADOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Satisfação do Cliente</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="BodaAcer" changedate="20160111T211343Z" creationid="Admin" creationdate="20151222T120958Z">
+        <seg>Satisfacción del Cliente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Se quiser enviar um arquivo, copie o link do mesmo na nuvem.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130401Z" creationid="HPNuevo" creationdate="20160115T130401Z">
+        <seg>Si desea enviar un archivo, copie el enlace del mismo en la nube.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Selecionamos o tradutor nativo mais qualificado, de acordo com a experiência no setor requerido.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20151222T120359Z" creationid="Admin" creationdate="20151222T120359Z">
+        <seg>Seleccionamos el traductor nativo más calificado, según la experiencia en la industria requerida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Serviços</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20151222T115508Z" creationid="Admin" creationdate="20151222T115508Z">
+        <seg>Servicios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Skilled, fast and reliable.mihaimotocu Garessio</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20160111T184117Z" creationid="Admin" creationdate="20160111T184117Z">
+        <seg>Habilidosos, rápidos y confiables. mihaimotocu Garessio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Sobre Nós</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="BodaAcer" changedate="20160111T203150Z" creationid="Admin" creationdate="20151222T115524Z">
+        <seg>Sobre Nosotros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Somos especialistas em traduções de textos tanto simples como técnicos de três dos cinco idiomas mais falados do mundo: Português, Espanhol e Inglês.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20160111T182427Z" creationid="Admin" creationdate="20160111T182427Z">
+        <seg>Estamos especializados en traducciones de textos tanto simples como técnicos de tres de los cinco idiomas más hablados del mundo: Portugués, Español e Inglés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Sua Agência de Tradução /Traduções Técnicas e Simples /NearU Translations</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="BodaAcer" changedate="20160111T203145Z" creationid="Admin" creationdate="20160111T175821Z">
+        <seg>Su Agencia de Traducción/Traducciones Técnicas y Simples /NearU Translations</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Tecnologia</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20151222T115906Z" creationid="Admin" creationdate="20151222T115906Z">
+        <seg>Tecnología</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Telefone</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20151222T121717Z" creationid="Admin" creationdate="20151222T121717Z">
+        <seg>Teléfono</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Temos a capacidade de oferecer traduções a um tempo recorde graças à nossa metodologia e ferramentas ágeis de trabalho e vasto número de colaboradores.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160121T180321Z" creationid="HPNuevo" creationdate="20160120T113508Z">
+        <seg>Tenemos la capacidad de ofrecer traducciones en un tiempo récord gracias a nuestra metodología y herramientas ágiles de trabajo y a un gran número de colaboradores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Todas as nossas traduções são realizadas por profissionais nativos, selecionados por um coordenador de projeto e passam por um rigoroso processo de revisão.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="BodaAcer" changedate="20160111T204139Z" creationid="Admin" creationdate="20160111T180154Z">
+        <seg>Todas nuestras traducciones son realizadas por profesionales nativos, seleccionados por un coordinador de proyecto y sometidas a un riguroso proceso de revisión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Todas as traduções e revisões são realizadas por profissionais nativos do idioma de destino e experts no idioma de origem.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="BodaAcer" changedate="20160111T210554Z" creationid="Admin" creationdate="20160111T183156Z">
+        <seg>Todas las traducciones y revisiones son realizadas por profesionales nativos en el idioma de destino y expertos en el idioma de origen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Todos</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130057Z" creationid="HPNuevo" creationdate="20160115T130057Z">
+        <seg>Todos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Todos os direitos reservados.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20151222T121753Z" creationid="Admin" creationdate="20151222T121753Z">
+        <seg>Todos los derechos reservados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Trabalhamos com os principais formatos de arquivos (Html, Word, Excel, Powerpoint, Pdf), entregando os projetos diretamente no documento original do cliente.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20151222T120855Z" creationid="Admin" creationdate="20151222T120855Z">
+        <seg>Trabajamos con los principales formatos (Html, Word, Excel, Powerpoint, Pdf), entregando los proyectos directamente en el documento original del cliente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Trabalho foi excelente, da pra ver que fizeram o esforço pra que o trabalho fosse impecaveilPaulo Serra</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20160111T184224Z" creationid="Admin" creationdate="20160111T184224Z">
+        <seg>El trabajo fue excelente, se nota el esfuerzo que hicieron para que quedase impecablePaulo Serra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Tradutores Nativos</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="BodaAcer" changedate="20160111T210517Z" creationid="Admin" creationdate="20151222T120452Z">
+        <seg>Traductores Nativos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Traduzimos textos simples e técnicos para todos os setores, formatos e finalidades: documentos, apresentações, sites, aplicativos, e-books.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160121T175728Z" creationid="HPNuevo" creationdate="20160121T175318Z">
+        <seg>Traducimos textos simples y técnicos para todos los sectores, formatos y finalidades: documentos, presentaciones, webs, aplicaciones y e-books.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Tradução</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20151222T115722Z" creationid="Admin" creationdate="20151222T115722Z">
+        <seg>Traducción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Tradução Profissional</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="BodaAcer" changedate="20160111T211416Z" creationid="Admin" creationdate="20151222T121122Z">
+        <seg>Traducción Profesional</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Tradução,Localização Software,Localização Site,Tradução Aplicativo,Idiomas,Português,Inglês,Espanhol,Tradução conteúdo corporativo,Traduções Urgentes,Tradutores Nativos</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="BodaAcer" changedate="20160111T202926Z" creationid="Admin" creationdate="20160111T175701Z">
+        <seg>Traducción, Localización de Software, Localización de Sitios Web, Traducción, Aplicaciones, idiomas, Portugués, Inglés, Español, Traducción de contenido corporativo, Traducciones Urgentes, Traductores Nativos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Traduções Urgentes</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="BodaAcer" changedate="20160111T210858Z" creationid="Admin" creationdate="20151222T120810Z">
+        <seg>Traducciones Urgentes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Transcrição</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20151222T121434Z" creationid="Admin" creationdate="20151222T121434Z">
+        <seg>Transcripción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Transcrição Profissional</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="BodaAcer" changedate="20160111T211514Z" creationid="Admin" creationdate="20151222T121457Z">
+        <seg>Transcripción Profesional</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Transcrição de Áudio e Vídeo</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="BodaAcer" changedate="20160111T204746Z" creationid="Admin" creationdate="20151222T122329Z">
+        <seg>Transcripción de Audio y Vídeo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Transforme o conteúdo audiovisual em texto para uma possível tradução e adaptação do mesmo.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20151222T122344Z" creationid="Admin" creationdate="20151222T115754Z">
+        <seg>Transforme el contenido audiovisual en texto para una posible traducción y adaptación del mismo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Turismo</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130112Z" creationid="HPNuevo" creationdate="20160115T130112Z">
+        <seg>Turismo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Tweet</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130054Z" creationid="HPNuevo" creationdate="20160115T130054Z">
+        <seg>Tweet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Twitter Bootstrap</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130913Z" creationid="HPNuevo" creationdate="20160115T130913Z">
+        <seg>Twitter Bootstrap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Twitter Bootstrap Hover Dropdown</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130916Z" creationid="HPNuevo" creationdate="20160115T130916Z">
+        <seg>Twitter Bootstrap Hover Dropdown</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Uma comunicação precisa transmite confiança e profissionalidade em qualquer negócio.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160121T175400Z" creationid="HPNuevo" creationdate="20160121T175400Z">
+        <seg>Una comunicación precisa  transmite profesionalidad y confianza en cualquier negocio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Usamos as ferramentas mais avançadas para que o seu site e aplicativo sejam utilizados sem limites por qualquer pessoa e em qualquer lugar do mundo.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160120T112445Z" creationid="HPNuevo" creationdate="20160120T112445Z">
+        <seg>Usamos las herramientas más avanzadas para que su web y aplicación sean utilizados sin límites por cualquier persona y en cualquier lugar del mundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Utilizamos glossários para garantir a máxima qualidade e concisão.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20151222T120613Z" creationid="Admin" creationdate="20151222T120613Z">
+        <seg>Usamos glosarios para garantizar la precisión y la máxima calidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Veja nossa solução</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20151222T115717Z" creationid="Admin" creationdate="20151222T115717Z">
+        <seg>Vea nuestra solución</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Vista aérea de Nueva York</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130048Z" creationid="HPNuevo" creationdate="20160115T130048Z">
+        <seg>Vista aérea de Nueva York</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Você receberá o conteúdo escrito em formato word e com a opção de marcação de tempo de cada fala.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160121T175835Z" creationid="Admin" creationdate="20151222T115756Z">
+        <seg>Usted recibirá el contenido escrito en formato Word y con la opción de tener la indicación del tiempo de cada discurso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>desenho na lousa sobre marketing</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20160111T180928Z" creationid="Admin" creationdate="20160111T180928Z">
+        <seg>dibujo de marketing sobre la pizarra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>evolução da bolsa de valores</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20160111T181407Z" creationid="Admin" creationdate="20160111T181407Z">
+        <seg>evolución de la bolsa de valores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>explicação tecnologia cloud computing</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20160111T181103Z" creationid="Admin" creationdate="20160111T181103Z">
+        <seg>explicación tecnológica del cloud computing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>great work, highly recommend.Troy Hammon</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160121T180247Z" creationid="Admin" creationdate="20160111T184333Z">
+        <seg>Gran trabajo, muy recomendables.Troy Hammon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>http://budicon.buditanrim.co/</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130936Z" creationid="HPNuevo" creationdate="20160115T130936Z">
+        <seg>http://budicon.buditanrim.co/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>http://codecanyon.net/item/slider-revolution-responsive-jquery-plugin/2580848</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130922Z" creationid="HPNuevo" creationdate="20160115T130922Z">
+        <seg>http://codecanyon.net/item/slider-revolution-responsive-jquery-plugin/2580848</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>http://fancybox.net/</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130919Z" creationid="HPNuevo" creationdate="20160115T130919Z">
+        <seg>http://fancybox.net/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>http://fitvidsjs.com/</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130920Z" creationid="HPNuevo" creationdate="20160115T130920Z">
+        <seg>http://fitvidsjs.com/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>http://fontello.com/</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130935Z" creationid="HPNuevo" creationdate="20160115T130935Z">
+        <seg>http://fontello.com/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>http://fonts.googleapis.com/css?family=Dosis:200,300,400,500,600,700,800</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T125944Z" creationid="HPNuevo" creationdate="20160115T125944Z">
+        <seg>http://fonts.googleapis.com/css?family=Dosis:200,300,400,500,600,700,800</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>http://fonts.googleapis.com/css?family=Josefin+Sans:400,600,700,400italic,600italic,700italic</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T125941Z" creationid="HPNuevo" creationdate="20160115T125941Z">
+        <seg>http://fonts.googleapis.com/css?family=Josefin+Sans:400,600,700,400italic,600italic,700italic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>http://fonts.googleapis.com/css?family=Raleway:400,300,500,600,700,800,900</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T125942Z" creationid="HPNuevo" creationdate="20160115T125942Z">
+        <seg>http://fonts.googleapis.com/css?family=Raleway:400,300,500,600,700,800,900</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>http://instafeedjs.com/</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130925Z" creationid="HPNuevo" creationdate="20160115T130925Z">
+        <seg>http://instafeedjs.com/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>http://isotope.metafizzy.co/</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130921Z" creationid="HPNuevo" creationdate="20160115T130921Z">
+        <seg>http://isotope.metafizzy.co/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>http://os.alfajango.com/easytabs/</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130917Z" creationid="HPNuevo" creationdate="20160115T130917Z">
+        <seg>http://os.alfajango.com/easytabs/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>http://twitter.github.com/bootstrap/</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130912Z" creationid="HPNuevo" creationdate="20160115T130912Z">
+        <seg>http://twitter.github.com/bootstrap/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>http://www.dahliacreative.com/retinisejs</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130923Z" creationid="HPNuevo" creationdate="20160115T130923Z">
+        <seg>http://www.dahliacreative.com/retinisejs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>http://www.owlcarousel.owlgraphic.com/</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130924Z" creationid="HPNuevo" creationdate="20160115T130924Z">
+        <seg>http://www.owlcarousel.owlgraphic.com/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>https://flic.kr/p/paxWUT</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130852Z" creationid="HPNuevo" creationdate="20160115T130852Z">
+        <seg>https://flic.kr/p/paxWUT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>https://github.com/CWSpear/twitter-bootstrap-hover-dropdown</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130914Z" creationid="HPNuevo" creationdate="20160115T130914Z">
+        <seg>https://github.com/CWSpear/twitter-bootstrap-hover-dropdown</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>https://www.flickr.com/photos/68711844@N07/</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130853Z" creationid="HPNuevo" creationdate="20160115T130853Z">
+        <seg>https://www.flickr.com/photos/68711844@N07/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>https://www.flickr.com/photos/g4egk/</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130748Z" creationid="HPNuevo" creationdate="20160115T130748Z">
+        <seg>https://www.flickr.com/photos/g4egk/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>https://www.flickr.com/photos/g4egk/4816608544/in/faves-63044246@N04/</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130747Z" creationid="HPNuevo" creationdate="20160115T130747Z">
+        <seg>https://www.flickr.com/photos/g4egk/4816608544/in/faves-63044246@N04/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>imagem minério</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20160111T181840Z" creationid="Admin" creationdate="20160111T181840Z">
+        <seg>imagen de mineral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>index.html</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130000Z" creationid="HPNuevo" creationdate="20160115T130000Z">
+        <seg>index.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>info@nearutranslations.com</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130208Z" creationid="HPNuevo" creationdate="20160115T130208Z">
+        <seg>info@nearutranslations.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>javascript:abrir('creditos.html')</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130414Z" creationid="HPNuevo" creationdate="20160115T130414Z">
+        <seg>javascript:abrir('creditos.html')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>logo NearU</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20160111T175846Z" creationid="Admin" creationdate="20160111T175846Z">
+        <seg>Logo NearU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>mailto:info@nearutranslations.com</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130207Z" creationid="HPNuevo" creationdate="20160115T130207Z">
+        <seg>mailto:info@nearutranslations.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>mesa professor com livros e lousa ao fundo</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20160111T181701Z" creationid="Admin" creationdate="20160111T181701Z">
+        <seg>mesa de profesor con libros y pizarra al fondo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>médica preenchendo formulário</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20160111T181448Z" creationid="Admin" creationdate="20160111T181448Z">
+        <seg>doctora rellenando la ficha del paciente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>pessoa desenhando o mundo</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20160111T180037Z" creationid="Admin" creationdate="20160111T180037Z">
+        <seg>persona dibujando el mundo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>pessoa usando tablet</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20160111T180049Z" creationid="Admin" creationdate="20160111T180049Z">
+        <seg>persona usando una tablet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>placa de circuito eletrônico</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20160111T181734Z" creationid="Admin" creationdate="20160111T181719Z">
+        <seg>placa de circuito electrónico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>processo de criação de ideias</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20160111T183011Z" creationid="Admin" creationdate="20160111T183011Z">
+        <seg>proceso de creación de ideas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>produção peça metálica</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="BodaAcer" changedate="20160111T205322Z" creationid="Admin" creationdate="20160111T181516Z">
+        <seg>producción de piezas de metal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>pt</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160121T180830Z" creationid="HPNuevo" creationdate="20160115T125645Z">
+        <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>pátio automóveis</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20160111T181031Z" creationid="Admin" creationdate="20160111T181031Z">
+        <seg>almacén de automóviles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>tábua de frios</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="Admin" changedate="20160111T181907Z" creationid="Admin" creationdate="20160111T181907Z">
+        <seg>tabla de embutidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>width=device-width, initial-scale=1.0</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T125854Z" creationid="HPNuevo" creationdate="20160115T125854Z">
+        <seg>width=device-width, initial-scale=1.0 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>© 2015 NearU Translations.</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130416Z" creationid="HPNuevo" creationdate="20160115T130416Z">
+        <seg>© 2015 NearU Translations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>Ícones</seg>
+      </tuv>
+      <tuv lang="ES-ES" changeid="HPNuevo" changedate="20160115T130934Z" creationid="HPNuevo" creationdate="20160115T130934Z">
+        <seg>Iconos</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

@@ -1,0 +1,10 @@
+21/01/16 10:09
+                      	Segmentos	Palabras	Caracteres (sin espacios)	Caracteres (incluyendo espacios)	
+Repeticiones:         	        0	       0	                        0	                               0	
+Coincidencias exactas:	      384	    1574	                    10638	                           11676	
+95%-100%:             	        0	       0	                        0	                               0	
+85%-94%:              	        0	       0	                        0	                               0	
+75%-84%:              	        0	       0	                        0	                               0	
+50%-74%:              	        0	       0	                        0	                               0	
+No hay coincidencias: 	        0	       0	                        0	                               0	
+Total:                	      384	    1574	                    10638	                           11676	
